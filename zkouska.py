@@ -1,3 +1,4 @@
+#aplikace pro koniklec
 lektori= ["Jenda","Jirka","Bohouš","Janča","Leona"]
 evp= ["Bezouši","HH","Stavitelé města"]
 cislo_evp= int(input("číslo EVP:"))
